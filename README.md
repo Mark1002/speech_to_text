@@ -1,6 +1,5 @@
 # 語音轉文字 API 研究
 
-
 [SpeechRecognition](https://pypi.org/project/SpeechRecognition/) 是 python 的語音識別 library ，裡面串接了多種 online 的語音轉文字 API 服務以及 offline 的語音轉文字引擎。
 
 包含以下幾種：
@@ -19,4 +18,5 @@ IBM Speech to Text
 
 reference:
 http://tts.itri.org.tw/index.php
+
 https://blog.csdn.net/itas109/article/details/78568591
